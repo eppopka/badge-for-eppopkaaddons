@@ -11,9 +11,16 @@
     "sizeY": 0.5,
     "sizeZ": 1
   },
+  "497dd344-6cc4-4563-af0f-84a62b20768c": {
+    "name": "{\"text\":\"\",\"extra\":[{\"text\":\"e\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"o\",\"color\":\"#FFD700\",\"bold\":true},{\"text\":\"p\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"k\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"a\",\"color\":\"#1E90FF\",\"bold\":true},{\"text\":\"!\",\"color\":\"#1E90FF\",\"bold\":true}]}",
+    "sizeX": 1,
+    "sizeY": 0.5,
+    "sizeZ": 1
+  },
   "ed2d1f0f-170f-4fd2-bbed-7d5dc6ea8cc1": {
-    "name": "фанерхп",
+    "name": "{"text":"","extra":[{"text":"m","color":"#55CDFC","bold":true},{"text":"f","color":"#F7A8B8","bold":true},{"text":"2","color":"#FFFFFF","bold":true},{"text":"0","color":"#FFFFFF","bold":true},{"text":"1","color":"#F7A8B8","bold":true},{"text":"5","color":"#55CDFC","bold":true}]}",
     "sizeX": 1,
     "sizeY": 0.5,
     "sizeZ": 1
 }
+
